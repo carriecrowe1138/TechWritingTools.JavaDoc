@@ -6,7 +6,7 @@
 package javadocexamplehelloworldproject;
 
 /**
- *
+ * Installed JavaDoc tool
  * @author CarrieBear
  */
 public class JavaDocExampleHelloWorldProject {
